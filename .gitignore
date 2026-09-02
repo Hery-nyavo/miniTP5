@@ -1,0 +1,50 @@
+# Fichiers générés par Android Studio
+*.iml
+.idea/
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+
+# Fichiers de configuration personnels
+*.properties
+*.xml~
+*.keystore
+*.jks
+debug.keystore
+
+# Fichiers de logs
+*.log
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de cache
+.cache/
+*.class
+*.jar
+*.war
+*.ear
+*.dex
+*.apk
+*.aab
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Fichiers de build Gradle
+gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.jar
+/gradlew
+/gradlew.bat
+
+# Fichiers de configuration Kotlin
+.kotlin/
